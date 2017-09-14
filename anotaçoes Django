@@ -1,0 +1,10 @@
+manage.py =>
+  um script que ajuda com a gestão do site. Com isso seremos capazes de
+   iniciar um servidor de web no nosso computador sem instalar nada,
+   entre outras coisas.
+
+settings.py =>
+  contém a configuração do seu site.
+
+urls.py =>
+  contém uma lista dos padrões usados por urlresolver.
