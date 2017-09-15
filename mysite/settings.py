@@ -89,7 +89,7 @@ DATABASES = {
 LANGUAGE_CODE = 'en-us'
 
 #editar o seu fuso horario
-TIME_ZONE = 'America/Recife'
+TIME_ZONE = 'America/Sao_Paulo'
 
 USE_I18N = True
 
